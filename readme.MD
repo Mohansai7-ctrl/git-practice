@@ -7,3 +7,4 @@
 # Egg-Dosa
 
 * dosa flour
+* 2 eggs
