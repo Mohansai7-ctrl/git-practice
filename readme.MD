@@ -11,11 +11,7 @@
 
 # special-dosa
 * Dosa batter
-<<<<<<< HEAD
-* podi
-* bombay chutney
-=======
 * bombay chutney
 * podi
->>>>>>> main
+
 
