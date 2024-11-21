@@ -8,3 +8,7 @@
 
 * dosa flour
 * 2 eggs
+
+# special-dosa
+* Dosa batter
+* bombay chutney
